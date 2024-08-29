@@ -1,2 +1,2 @@
-# Tensorflow-Fundamentals
-The purpose of this repository is to provide adiional notes for future ML projects that uilize the TensorFlow framework.
+# Tensorflow-ML_Projects
+The purpose of this repository is to provide aditional notes and projects that can be utilized for future ML projects that make use of the TensorFlow framework.
